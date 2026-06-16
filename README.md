@@ -6,14 +6,14 @@ The primary objective of this project is to assist in the early detection of hea
 
 This project demonstrates the complete machine learning workflow, including data preprocessing, exploratory data analysis, feature selection, model training, evaluation, and deployment. It showcases the practical application of machine learning in the healthcare domain and highlights how predictive models can support medical decision-making.
 
-Features
+Features:
 Predicts the risk of heart disease based on patient health data.
 User-friendly interface for entering medical parameters.
 Data preprocessing and feature engineering.
 Machine Learning model training and evaluation.
 Fast and accurate prediction results.
 
-Technologies Used
+Technologies Used:
 Python,
 Pandas,
 NumPy,
@@ -21,5 +21,5 @@ Scikit-learn,
 Flask,
 HTML/CSS
 
-Project Goal
+Project Goal:
 The goal of this project is to build an intelligent system that can assist healthcare professionals and individuals in identifying potential heart disease risks at an early stage, enabling timely medical intervention and improved patient outcomes.
